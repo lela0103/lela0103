@@ -23,6 +23,6 @@
 <br/>
 
 ### 📫 How to reach me: 
-- Email: lailayunita01@gmail.com
+- <a href="lailayunita01@gmail.com">Email</a>
 - <a href="https://www.linkedin.com/in/lailayunita01/">LinkedIn</a>
 - <a href="https://www.instagram.com/lailayunita_/">Instagram</a>
